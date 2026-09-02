@@ -169,7 +169,7 @@ endmodule
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+<img width="1262" height="792" alt="WhatsApp Image 2026-09-01 at 3 58 30 PM" src="https://github.com/user-attachments/assets/850b36e1-92f8-46f1-b2df-7abd0494bfc1" />
 
 
 ## Results
